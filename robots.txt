@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://tovaheqehecu.pages.dev/sitemap.xml
